@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Full Stack Developer<br>🌍  I'm based in Sao Paulo, Brazil<br>✉️  You can contact me at andretrevizam264@gmail.com</p>
+<p align="left">Full Stack Developer<br>🌍  I'm based in Sao Jose do Rio Preto, Brazil<br>✉️  You can contact me at andretrevizam264@gmail.com</p>
 
 ###
 
